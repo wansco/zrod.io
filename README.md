@@ -1,5 +1,7 @@
 # zrod.io
 
+This repository is out of date. If you want to learn more about this project, please contact me.
+
 Flexible rod design. Note: I have not yet posted the front end source code due to time and resources. You can, however take a look at the [Excel file](https://zrod.io/home/download) to see some of the basic interaction with the backend API. Please keep in mind that this is not yet ready for widespread use and we would appreciate any feedback that you can provide.
 
 ## Overview
