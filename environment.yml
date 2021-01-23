@@ -1,9 +1,7 @@
 name: zrod-environment
 channels:
-  - bokeh/label/dev
 dependencies:
   - python
-  - bokeh
   - pip:
     - matplotlib
     - numpy
