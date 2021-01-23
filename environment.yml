@@ -4,7 +4,6 @@ channels:
 dependencies:
   - python
   - bokeh
-  - pyviz_comms
   - pip:
     - matplotlib
     - numpy
