@@ -1,6 +1,7 @@
 name: zrod-environment
 channels:
   - conda-forge
+  - default
 dependencies:
   - numpy
   - matplotlib
