@@ -1,7 +1,9 @@
 name: zrod-environment
 channels:
+  - default
 dependencies:
   - python
   - pip:
     - matplotlib
     - numpy
+    - pandas
